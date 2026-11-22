@@ -1,1 +1,1 @@
-# C_programming_lab
+# C_programming_lab_assignment_1
